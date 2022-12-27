@@ -1,9 +1,4 @@
-
-chatgpt==2.2212.0
-decorator==5.1.1
-numpy==1.23.4
-openai==0.25.0
-openapi==1.1.0
-smmap==5.0.0
-streamlit==1.16.0
-streamlit-chat==0.0.2.1
+chatgpt
+openai
+streamlit
+streamlit-chat
