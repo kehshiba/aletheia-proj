@@ -1,9 +1,8 @@
-# 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
 import openai
 import streamlit as st
 from streamlit_chat import message as ms
 
-openai.api_key = "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"
+openai.api_key = st.secrets['api_key']
 
 
 hide_menu_style = """
